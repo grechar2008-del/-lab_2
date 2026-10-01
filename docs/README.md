@@ -84,3 +84,6 @@ print(perimeter(3, 4, 5))  # Вывод: 12
 ## История изменения проекта
 
 - **3d528ed** - feat: Add comments to functions
+- **e6c093b** feat: Add README.md and fix square.py
+- **e5cbbca** feat: add functions of triangle and rectangle with comments
+- **3488b48** feat: refresh the README
